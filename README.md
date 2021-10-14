@@ -6,7 +6,7 @@
 
 ## Connect With Me
 <a href="https://www.instagram.com/leonardolim78"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Leonardo Lim | Instagram"></a>
-<a href="https://www.linkedin.com/in/leonardo-lim-b1816a137"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Leonardo Lim | LinkedIn"></a>
+<a href="https://www.linkedin.com/in/leonardo-lim"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Leonardo Lim | LinkedIn"></a>
 <a href="https://www.codeforces.com/profile/leonardolim78"><img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Leonardo Lim | Codeforces"></a>
 <a href="https://www.hackerrank.com/leonardolim"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Leonardo Lim | HackerRank"></a>
 <a href="https://www.sololearn.com/profile/18514103"><img align="left" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Leonardo Lim | Sololearn"></a>
