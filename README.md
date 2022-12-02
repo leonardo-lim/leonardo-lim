@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I love cooking
 
 ### Connect With Me
-<a href="https://www.instagram.com/leonardolim78"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Leonardo Lim | Instagram"></a>
+<a href="https://www.instagram.com/leonardo.lim_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Leonardo Lim | Instagram"></a>
 <a href="https://www.linkedin.com/in/leonardo-lim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Leonardo Lim | LinkedIn"></a>
 <a href="https://www.codeforces.com/profile/leonardolim78"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Leonardo Lim | Codeforces"></a>
 <a href="https://www.hackerrank.com/leonardolim"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Leonardo Lim | HackerRank"></a>
